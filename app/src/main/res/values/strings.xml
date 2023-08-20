@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GlucoseCheck</string>
+    <string name="measuring_glucose_level_simpler">Glucose Level Measurement</string>
+    <string name="capture">CAPTURE</string>
+    <string name="select_or_crop_image">Select or Crop Image</string>
+    <string name="crop_image">Crop Current Image</string>
+    <string name="select_image_from_device">Select Image from Device</string>
+    <string name="enter_the_time_since_you_ate_last_meal">Enter the time \n since you ate last meal</string>
+    <string name="next">NEXT</string>
+    <string name="glucam">GlucoseCheck</string>
+    <string name="minutes">Minutes</string>
+    <string name="the_predicted_n_blood_glucose_level_is">The Predicted \n Blood Glucose Level is:</string>
+    <string name="X">X</string>
+    <string name="recheck">Recheck</string>
+    <string name="normal">Normal</string>
+    <string name="image_captured_successfully">Image Captured Successfully</string>
+    <string name="capture_next_image">Capture Next Image</string>
+    <string name="next_step">Next Step</string>
+    <string name="please_select_n_image_capture_method">Please Select \n Image Capture Method</string>
+    <string name="front_camera">Front Camera</string>
+    <string name="rear_camera">Rear Camera</string>
+    <string name="frame_of_reference">Frame of Reference</string>
+    <string name="roi">ROI</string>
+    <string name="curves">Curves</string>
+    <string name="tcc_value">TCC Value =</string>
+    <string name="left_eye">Left Eye</string>
+    <string name="right_eye">Right Eye</string>
+    <string name="choose_from_gallery">Choose from Gallery</string>
+    <string name="pick_from_gallery">Pick from Gallery</string>
+</resources>
